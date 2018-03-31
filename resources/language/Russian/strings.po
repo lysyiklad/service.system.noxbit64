@@ -1,0 +1,28 @@
+# Kodi Media Center language file
+# Addon Name: NOXBIT (LibreELEC arm64)
+# Addon id: service.system.noxbit64
+# Addon Provider: lysyi
+
+msgid ""
+msgstr ""
+
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+
+# Categories
+
+msgctxt "#32101"
+msgid "Basic"
+msgstr "Основные"
+
+# Basic setup
+
+msgctxt "#32110"
+msgid "http://noxbit.com/#"
+msgstr "http://noxbit.com/#"
+
+msgctxt "#32111"
+msgid "Settings in the file: /storage/.kodi/addons/service.system.noxbit64/bin/noxbit.cfg"
+msgstr "Настройки в файле: /storage/.kodi/addons/service.system.noxbit64/bin/noxbit.cfg"
+

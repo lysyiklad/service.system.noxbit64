@@ -1,2 +1,2 @@
 # service.system.noxbit64
-NOXBIT (linux arm 64)
+NOXBIT (LibreELEC arm 64)

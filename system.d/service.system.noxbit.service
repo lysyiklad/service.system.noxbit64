@@ -1,0 +1,11 @@
+[Unit]
+Description=NOXBIT_ARM64
+
+[Service]
+Type=simple
+ExecStart=/bin/sh /storage/.kodi/addons/service.system.noxbit64/bin/autostart.sh
+Restart=on-failure
+
+[Install]
+WantedBy=kodi.target
+
